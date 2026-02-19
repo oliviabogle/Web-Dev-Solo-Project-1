@@ -35,9 +35,13 @@ To design a visually calming, modern Pilates website with an elevated athleisure
 
 ---
 
-## Technical Mission
+## Technical Requirements 
+- [ ] This project will be created by using HTML, CSS, Java Script
+- [ ] Host: Github Pages (link)
+- [ ] External technologies/framework: Canva 
+- [ ] No external API's will be required 
 
-To create a responsive, user-friendly website that showcases Studio 22’s classes and memberships seamlessly across all devices.
+
 
 
 
